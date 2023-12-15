@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506875187466",
+    "project_id": "joruriicusheba",
+    "storage_bucket": "joruriicusheba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506875187466:android:7b9e8f2b741f2ad0f72af3",
+        "android_client_info": {
+          "package_name": "com.example.joruriicusheba"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7emqT6T_HABYt4fxa4dvOZ2ITAptbyPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
